@@ -1,0 +1,18 @@
+# VS Code files
+.vscode/
+*.code-workspace
+
+# Local Environment Variables
+.env
+.env.local
+.venv
+
+# Operating System files
+.DS_Store
+Thumbs.db
+
+# Common Dependency directories
+node_modules/
+bin/
+obj/
+dist/
